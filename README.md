@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deven</h1>
-<h3 align="center">A passionate developer in Backend development, Automation, and SRE.</h3>
+<h3 align="center">A passionate Backend and Automation Developer.</h3>
 
 - 🔭 I’m currently working on [Video Quality Enhancement](https://github.com/Video-Quality-Enhancement)
 
